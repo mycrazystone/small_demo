@@ -8,6 +8,7 @@ public class Demo3 {
 		System.out.println("-你好--");
 
 		System.out.println("idea中竟然不识别");
+		System.out.println("再来一次");
 	}
 
 }
