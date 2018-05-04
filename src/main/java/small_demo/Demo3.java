@@ -6,6 +6,8 @@ public class Demo3 {
 		
 		System.out.println("---HE -- He");
 		System.out.println("-你好--");
+
+		System.out.println("idea中竟然不识别");
 	}
 
 }
